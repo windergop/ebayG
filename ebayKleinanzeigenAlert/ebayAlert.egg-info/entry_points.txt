@@ -1,0 +1,2 @@
+[console_scripts]
+ebAlert = ebAlert.main:cli

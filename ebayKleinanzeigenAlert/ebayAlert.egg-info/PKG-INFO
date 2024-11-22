@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ebayAlert
+Version: 1.5
+License-File: LICENSE
+Requires-Dist: click>=7.1
+Requires-Dist: requests>=2.31
+Requires-Dist: bs4>=0.0.1
+Requires-Dist: sqlalchemy>=1.4
+Requires-Dist: urllib3>=2.2.0
